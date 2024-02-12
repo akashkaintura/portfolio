@@ -8,7 +8,7 @@ const contactMe = [
   {
     title: "LinkedIn",
     description: "Let's connect.",
-    link: "https://www.linkedin.com/in/akash-kaintura",
+    link: "https://www.linkedin.com/in/akashkaintura/",
     icon: "text-blue-accent-700 text-xl fa-brands fa-linkedin",
   },
   {
